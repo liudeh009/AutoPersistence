@@ -36,16 +36,15 @@
 
 
   二. Eclipse插件版的使用<br>
-      1.将AutoPersistencePlugin_1.0.0.autopersistence加入到Eclipse的安装目标下的plugins目录下.
-      2.鼠标右键点击项目名,选择 auto persistence->Setting Parameter,如下图:
+      1.将AutoPersistencePlugin_1.0.0.autopersistence加入到Eclipse的安装目标下的plugins目录下.<br>
+      2.鼠标右键点击项目名,选择 auto persistence->Setting Parameter,如下图:<br>
       修改相关配置后,点击finish即可生成相关的代码和配置文件了.
 
 
 后续优化<br>
-     1.  对oracle的全面支持.
-     2. 对分库分表配置的支持.
-     3. 对文件格式化的支持.
-
+     1.  对oracle的全面支持.<br>
+     2. 对分库分表配置的支持.<br>
+     3. 对文件格式化的支持.<br>
  
  备注:    
 
