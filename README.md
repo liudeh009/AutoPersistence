@@ -32,7 +32,7 @@
               bootStrap.start();
            执行以上代码就可以生成相关的代码和配置文件了.
 
-      4.  如果想扩展现有的功能,可以实现ResourceBuilder接口和SwitchRule接口. ResourceBuilder接口的实现类主要是获取元信息,模版,生成对应的目标文件.SwitchRule接口的实现类主要实现数据表名与pojo类名,数据库字段名和pojo属性名等的转换规则.
+     4.  如果想扩展现有的功能,可以实现ResourceBuilder接口和SwitchRule接口. ResourceBuilder接口的实现类主要是获取元信息,模版,生成对应的目标文件.SwitchRule接口的实现类主要实现数据表名与pojo类名,数据库字段名和pojo属性名等的转换规则.
 
 
    二. Eclipse插件版的使用<br>
