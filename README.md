@@ -13,8 +13,8 @@
      2.   在项目的当前目录的内路径下放置属性文件auto.properties.属性文件内容如下:
          
 
-           driver = com.mysql.jdbc.Driver    ---数据库驱动
-           url = jdbc:mysql://localhost/aliyun_kaoshi?useUnicode=true&amp;characterEncoding=utf8 
+          driver = com.mysql.jdbc.Driver    ---数据库驱动
+          url = jdbc:mysql://localhost/aliyun_kaoshi?useUnicode=true&amp;characterEncoding=utf8 
                                                                                            --数据库url
           user = root      --数据库用户名
           password = 123456     --数据库密码
