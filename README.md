@@ -35,10 +35,10 @@
       4.  如果想扩展现有的功能,可以实现ResourceBuilder接口和SwitchRule接口. ResourceBuilder接口的实现类主要是获取元信息,模版,生成对应的目标文件.SwitchRule接口的实现类主要实现数据表名与pojo类名,数据库字段名和pojo属性名等的转换规则.
 
 
-    二. Eclipse插件版的使用<br>
+   二. Eclipse插件版的使用<br>
       1.将AutoPersistencePlugin_1.0.0.autopersistence加入到Eclipse的安装目标下的plugins目录下.<br>
-      2.鼠标右键点击项目名,选择 auto persistence->Setting Parameter,如下图:<br>
-      修改相关配置后,点击finish即可生成相关的代码和配置文件了.
+      2.鼠标右键点击项目名,选择 auto persistence->Setting Parameter.<br>
+      修改相关配置后,点击finish即可生成相关的代码和配置文件了.<br>
 
 
 后续优化<br>
